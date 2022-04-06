@@ -51,10 +51,20 @@ The GORM is fantastic ORM library for Golang, aims to be developer friendly. It 
 3. It must pass all continuous integration checks and get positive reviews.
 
 ##  :camera: Gallery
+<h3>run main.go</h3>
 ![Screenshot 2022-04-06 203513](https://user-images.githubusercontent.com/59395624/162008130-c8c96ad6-bd8e-4d54-ae3a-c11dc418b886.png)
+
+<h3>Testing in Postman</h3>
+<h4>GET Operation</h4>
 ![Screenshot (246)](https://user-images.githubusercontent.com/59395624/162008344-cb721104-9e5f-4300-9da7-513924841aff.png)
+
+<h3>POST operation</h3>
 ![Screenshot (247)](https://user-images.githubusercontent.com/59395624/162008394-ff56efed-a682-4608-9166-e27d4b8fe399.png)
+
+
 ![Screenshot (248)](https://user-images.githubusercontent.com/59395624/162008517-2125a489-e1b9-44a0-8ad5-9c35cd5f1d8c.png)
+<br>
+<h3>SQL</h3>
 ![Screenshot 2022-04-06 204320](https://user-images.githubusercontent.com/59395624/162008577-5b9db690-4983-46dc-a740-d140acdc76f6.png)
 
 
